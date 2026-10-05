@@ -67,6 +67,8 @@
 2026-11-22,On call (fed),Yes,,,Fed on-call rota,jen-2026-11-22-on-call-fed@jen-rota
 2026-11-23,On call (fed),Yes,,,Fed on-call rota,jen-2026-11-23-on-call-fed@jen-rota
 2026-11-24,On call (fed),Yes,,,Fed on-call rota,jen-2026-11-24-on-call-fed@jen-rota
+2026-11-25,On call (co-ord),Yes,,,Negotiators call-out rota,jen-2026-11-25-on-call-co-ord@jen-rota
+2026-11-28,On call (co-ord),Yes,,,Negotiators call-out rota,jen-2026-11-28-on-call-co-ord@jen-rota
 2026-11-29,Working (Early),No,07:00,19:00,Working rota,jen-2026-11-29-working-early@jen-rota
 2026-11-30,Working (Early),No,07:00,19:00,Working rota,jen-2026-11-30-working-early@jen-rota
 2026-12-01,On call (co-ord),Yes,,,Negotiators call-out rota,jen-2026-12-01-on-call-co-ord@jen-rota
@@ -74,7 +76,9 @@
 2026-12-07,Working (Early),No,07:00,19:00,Working rota,jen-2026-12-07-working-early@jen-rota
 2026-12-08,Working (Early),No,07:00,19:00,Working rota,jen-2026-12-08-working-early@jen-rota
 2026-12-09,FED,Yes,,,Working rota,jen-2026-12-09-fed@jen-rota
+2026-12-09,On call (co-ord),Yes,,,Negotiators call-out rota,jen-2026-12-09-on-call-co-ord@jen-rota
 2026-12-11,Holiday,Yes,,,Working rota,jen-2026-12-11-holiday@jen-rota
+2026-12-11,On call (co-ord),Yes,,,Negotiators call-out rota,jen-2026-12-11-on-call-co-ord@jen-rota
 2026-12-12,Holiday,Yes,,,Working rota,jen-2026-12-12-holiday@jen-rota
 2026-12-13,Holiday,Yes,,,Working rota,jen-2026-12-13-holiday@jen-rota
 2026-12-14,Holiday,Yes,,,Working rota,jen-2026-12-14-holiday@jen-rota
@@ -82,8 +86,8 @@
 2026-12-16,Holiday,Yes,,,Working rota,jen-2026-12-16-holiday@jen-rota
 2026-12-17,Holiday,Yes,,,Working rota,jen-2026-12-17-holiday@jen-rota
 2026-12-17,On call (co-ord),Yes,,,Negotiators call-out rota,jen-2026-12-17-on-call-co-ord@jen-rota
+2026-12-18,On call (co-ord),Yes,,,Negotiators call-out rota,jen-2026-12-18-on-call-co-ord@jen-rota
 2026-12-18,Working (Nights),No,19:00,07:00,Working rota,jen-2026-12-18-working-nights@jen-rota
-2026-12-19,Working (Nights),No,19:00,07:00,Working rota,jen-2026-12-19-working-nights@jen-rota
 2026-12-23,Working (Early),No,07:00,19:00,Working rota,jen-2026-12-23-working-early@jen-rota
 2026-12-24,Working (Early),No,07:00,19:00,Working rota,jen-2026-12-24-working-early@jen-rota
 2026-12-25,Working (Nights),No,19:00,07:00,Working rota,jen-2026-12-25-working-nights@jen-rota
